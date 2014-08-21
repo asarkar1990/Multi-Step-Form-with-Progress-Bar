@@ -16,6 +16,12 @@
   body {
     font-family: montserrat, arial, verdana;
   }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
   /*form styles*/
   #msform {
     width: 800px;
